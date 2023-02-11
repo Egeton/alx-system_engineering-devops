@@ -1,1 +1,1 @@
-betty
+My shell permission readme
